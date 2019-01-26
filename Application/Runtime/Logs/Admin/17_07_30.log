@@ -1,0 +1,252 @@
+[ 2017-07-30T10:26:38+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renter&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined index: adminRenter F:\wamp64\www\uhouse\Application\Common\Common\function.php 第 132 行.
+
+[ 2017-07-30T10:26:40+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renterlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-07-30T10:26:55+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renterlogin&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: SHOW COLUMNS FROM `uhouse_renter` [ RunTime:0.0575s ]
+SQL: SELECT * FROM `uhouse_renter` WHERE ( username="154755475" ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-07-30T10:27:10+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renterlogin&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `uhouse_renter` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_renter` WHERE ( username="1547554745" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-07-30T10:27:18+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+SQL: SHOW COLUMNS FROM `uhouse_renter` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_renter` WHERE ( username="1547554745" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2017-07-30T10:27:21+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renter&a=liked
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `uhouse_like` [ RunTime:0.0375s ]
+SQL: SHOW COLUMNS FROM `uhouse_rent_condo` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `uhouse_like` WHERE ( username="1547554745" )  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="10466" ) LIMIT 1   [ RunTime:0.0194s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="4439" ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="13391" ) LIMIT 1   [ RunTime:0.0103s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="11927" ) LIMIT 1   [ RunTime:0.0069s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="7140" ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="8803" ) LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `uhouse_rent_condo` WHERE ( rent_condo_id="23231" ) LIMIT 1   [ RunTime:0.0069s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `uhouse_renter` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `uhouse_renter` WHERE ( username="1547554745" ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001405s ]
+
+[ 2017-07-30T10:27:25+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Renter&a=recommend
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000386s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `uhouse_renter` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_renter` WHERE ( username="1547554745" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-07-30T10:27:31+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-07-30T10:27:38+08:00 ] 127.0.0.1 /uhouse/admin.php?c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-07-30T10:27:39+08:00 ] 127.0.0.1 /uhouse/admin.php?c=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001390s ]
+
+[ 2017-07-30T16:58:44+08:00 ] 127.0.0.1 /uhouse/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054738s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001220s ]
+
+[ 2017-07-30T16:58:47+08:00 ] 127.0.0.1 /uhouse/admin.php?c=login&a=loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-07-30T16:58:47+08:00 ] 127.0.0.1 /uhouse/admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000268s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000756s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002817s ]
+
+[ 2017-07-30T17:00:11+08:00 ] 127.0.0.1 /uhouse/admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+

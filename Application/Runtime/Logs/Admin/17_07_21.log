@@ -1,0 +1,2029 @@
+[ 2017-07-21T00:03:00+08:00 ] 127.0.0.1 /uhouse/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-07-21T00:03:00+08:00 ] 127.0.0.1 /uhouse/index.php?&c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001744s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.008142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-07-21T00:08:42+08:00 ] 127.0.0.1 /uhouse/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-07-21T00:08:42+08:00 ] 127.0.0.1 /uhouse/index.php?&c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-07-21T00:08:46+08:00 ] 127.0.0.1 /uhouse/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-07-21T00:08:46+08:00 ] 127.0.0.1 /uhouse/index.php?&c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2017-07-21T09:14:14+08:00 ] 127.0.0.1 /uhouse/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-07-21T09:14:14+08:00 ] 127.0.0.1 /uhouse/index.php?&c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002984s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000372s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2017-07-21T09:14:18+08:00 ] 127.0.0.1 /uhouse/index.php?&c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2017-07-21T18:25:30+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-07-21T18:25:36+08:00 ] 127.0.0.1 /uhouse/admin.php?c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.1028s ]
+
+[ 2017-07-21T18:25:38+08:00 ] 127.0.0.1 /uhouse/admin.php?c=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-07-21T18:25:40+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0216s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0467s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0360s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2017-07-21T18:27:22+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-07-21T18:27:25+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0198s ]
+
+[ 2017-07-21T18:27:25+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 215 行.
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 295 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-07-21T18:28:22+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-07-21T18:28:24+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:28:24+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 215 行.
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 295 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-07-21T18:39:04+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012769s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-07-21T18:39:06+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:39:07+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2017-07-21T18:39:16+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:39:16+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 215 行.
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 295 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-07-21T18:39:21+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-07-21T18:39:22+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:39:22+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-07-21T18:39:50+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-07-21T18:39:52+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-07-21T18:39:52+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012959s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-07-21T18:39:53+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 215 行.
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 295 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2017-07-21T18:40:00+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="17" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:40:00+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-07-21T18:40:00+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="17" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 215 行.
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 295 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-07-21T18:40:11+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-07-21T18:43:21+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-07-21T18:43:24+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-07-21T18:43:24+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2017-07-21T18:43:24+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 215 行.
+NOTIC: [8] Undefined index: housing_location F:\wamp64\www\uhouse\Application\Runtime\Cache\Admin\8cf8ac2ca90a3ce99816dcb0918b7c4e.php 第 295 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-07-21T18:46:47+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-07-21T18:48:13+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-07-21T18:48:15+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010512s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-07-21T18:48:17+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000370s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2017-07-21T18:48:43+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-07-21T18:48:44+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000987s ]
+
+[ 2017-07-21T18:48:51+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-07-21T18:48:53+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:48:53+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-07-21T18:48:53+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000345s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000597s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012422s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-07-21T18:49:03+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-07-21T18:49:19+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2017-07-21T18:49:52+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011403s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-07-21T18:53:43+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2017-07-21T18:54:11+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-07-21T18:54:29+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-07-21T18:54:31+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-07-21T18:55:18+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-07-21T18:55:20+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-07-21T18:55:20+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-07-21T18:55:20+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-07-21T18:59:26+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2017-07-21T18:59:28+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T18:59:28+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0023s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-07-21T18:59:43+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000908s ]
+
+[ 2017-07-21T19:00:03+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: p F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 17 行.
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-07-21T19:00:07+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=prepare
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T19:00:07+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000744s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012422s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-07-21T19:01:06+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-07-21T23:06:47+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2017-07-21T23:08:21+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2017-07-21T23:12:06+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001059s ]
+
+[ 2017-07-21T23:12:59+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001065s ]
+
+[ 2017-07-21T23:37:40+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-07-21T23:38:13+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-07-21T23:43:56+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-07-21T23:44:11+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2017-07-21T23:44:32+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2017-07-21T23:44:43+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010670s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2017-07-21T23:44:56+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-07-21T23:45:08+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-07-21T23:45:14+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000260s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-07-21T23:45:21+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001066s ]
+
+[ 2017-07-21T23:45:52+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010324s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-07-21T23:48:01+08:00 ] 127.0.0.1 /uhouse/admin.php?c=landlord&a=detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="15" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010966s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-07-21T23:58:18+08:00 ] 127.0.0.1 /uhouse/admin.php?m=Admin&c=Landlord&a=index&p=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 10,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-07-21T23:58:21+08:00 ] 127.0.0.1 /uhouse/admin.php?m=Admin&c=Landlord&a=index&p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000270s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-07-21T23:58:37+08:00 ] 127.0.0.1 /uhouse/admin.php?m=Admin&c=Landlord&a=index&p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: pageSize F:\wamp64\www\uhouse\Application\Admin\Controller\LandlordController.class.php 第 18 行.
+SQL: SELECT * FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 ORDER BY house_id desc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `uhouse_landlord` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: sing_path F:\wamp64\www\uhouse\ThinkPHP\Common\functions.php 第 991 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-07-21T23:58:40+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Landlord&a=edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="16" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-07-21T23:58:41+08:00 ] 127.0.0.1 /uhouse/admin.php?c=Landlord&a=update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `uhouse_landlord` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `uhouse_landlord` WHERE ( house_id="16" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+SQL: SHOW COLUMNS FROM `uhouse_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `uhouse_user` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+

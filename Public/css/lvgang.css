@@ -1,0 +1,141 @@
+#lvgang_logo {
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+    left: -70px;
+    line-height: 40px;
+    bottom: 3px;
+    position: relative;
+}
+
+#forlg{
+    display: inline;
+    font-size: 30px;
+    height: 40px;
+    left: -10px;
+    position: relative;
+    top: -5px;
+    width: 100px;
+    border-radius: 6px;
+}
+
+#lvgangdep{
+    position: relative;
+    right: 7px;
+    top: 6.8px;
+}
+
+#realname{
+
+ }
+
+#phone{
+
+}
+
+#basic{
+    margin-bottom: 2px;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+
+#basicsection{
+    padding-left: 20px;
+}
+
+#unitlv{
+    bottom: 3px;
+    font-size: 19px;
+    position: relative;
+}
+
+#lvimage1{
+
+}
+
+#album-box {
+    float: left;
+    height: 425px;
+    width: 480px;
+}
+
+#album-box1 {
+    float: left;
+    height: 425px;
+    width: 480px;
+}
+
+#lvli1{
+     cursor: pointer;
+    height: 53.6px;
+    padding-right: 4px;
+    width: 76.8px;
+ }
+
+#lvli2{
+    cursor: pointer;
+    height: 53.6px;
+    padding-right: 4px;
+    width: 76.8px;
+}
+
+#lvli3{
+    cursor: pointer;
+    height: 53.6px;
+    padding-right: 4px;
+    width: 76.8px;
+}
+
+#lvli4{
+    cursor: pointer;
+    height: 53.6px;
+    padding-right: 4px;
+    width: 76.8px;
+}
+
+#lvli5{
+    cursor: pointer;
+    height: 53.6px;
+    padding-right: 4px;
+    width: 76.8px;
+}
+
+#lvli6{
+    cursor: pointer;
+    height: 53.6px;
+    padding-right: 4px;
+    width: 76.8px;
+}
+
+#lvimage1,#lvimage2,#lvimage3,#lvimage4,#lvimage5,#lvimage6{
+    height: 53.6px;
+    width: 76.8px;
+}
+
+#lvimage1:hover,#lvimage2:hover,#lvimage3:hover,#lvimage4:hover,#lvimage5:hover,#lvimage6:hover{
+    height: 53.8px;
+    width: 77px;
+    border:3.1px solid #00aeef;
+}
+
+#view_big_img,#lvgangdiv{
+    height: 359px;
+    width: 480px;
+}
+
+#album-view-wrap,#album-view-wrap1{
+    height: 65px;
+    margin: 0;
+    width: 490px;
+}
+
+#labellv{
+    top: 330.6px;
+    width: 458.7px;
+}
+
+.nibaba{
+    margin-bottom: 9px;
+    margin-top: 9px;
+    width: 100%;
+}
